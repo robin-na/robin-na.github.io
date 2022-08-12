@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My Website
+title: Robin Na
 
 # Your name to show in the footer
-author: Some Person
+author: Robin Na
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -58,7 +58,7 @@ social-network-links:
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: robinna
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -72,7 +72,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-#  google-scholar: your google scholar
+  google-scholar: https://scholar.google.com/citations?hl=en&user=44sFu3IAAAAJ #your google scholar
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname

@@ -1,0 +1,7 @@
+---
+layout: home
+title: Robin Na
+subtitle: Massachusetts Institute of Technology
+---
+
+I am a first-year PhD student at the Information Technology Group at MIT Sloan School of Management. I enjoy computational social science.

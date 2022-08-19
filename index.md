@@ -14,7 +14,7 @@ My studies have been generously supported by the highest paying merit-based scho
 
 ## Contact
 
-My publications and ongoing projects so far are the results of collaborating with physicists, computer scientists, historians, biologists, cognitive scientists, and economists which implies how open I am to interdisciplinary discussions! If there's any interesting research ideas you would like to discuss, please don't hesitate to write me an email!
+My publications and ongoing projects so far are the results of collaborating with physicists, computer scientists, historians, biologists, cognitive scientists, and economists, which implies how open I am to interdisciplinary discussions. If there's any interesting research ideas you would like to discuss, please don't hesitate to write me an email!
 
 ```
 robinna[at]mit[dot]edu

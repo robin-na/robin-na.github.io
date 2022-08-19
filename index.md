@@ -10,7 +10,7 @@ I am a first-year PhD student in [Information Technology](https://mitsloan.mit.e
 
 Before MIT, I was a pre-doctoral fellow at [Carnegie Mellon University](https://www.cmu.edu/) working on natural language processing and computational cognitive science. I received my B.S. in [physics](https://physics.snu.ac.kr/en) and B.A. in knowledge ecology (student-designed major) from [Seoul National University](https://en.snu.ac.kr/) where I was fortunate to collaborate with amazing researchers from the [Santa Fe Institute](https://www.santafe.edu/), [New England Complex Systems Institute](https://necsi.edu/), and [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) as an undergraduate.
 
-My studies have been generously supported by the highest paying merit-based scholarships in South Korea: SBS Foundation Fellowship for Future Talent (graduate for 6 years) and the [Presidential Science Scholarship](https://www.kosaf.go.kr/eng/jsp/aid/aid02_01_01.jsp) (undergraduate for 4 years).
+My studies have been generously supported by the highest paying merit-based scholarships in South Korea: SBS Foundation Fellowship for Future Talent (graduate for 6 years) and the [Presidential Science Scholarship](https://www.kosaf.go.kr/eng/jsp/aid/aid02_01_01.jsp) in physics (undergraduate for 4 years).
 
 ## Contact
 

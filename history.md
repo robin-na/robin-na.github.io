@@ -31,6 +31,8 @@ While I was browsing through all these books and SFI materials my junior year go
 
 For the latter, I joined the Human Centered Computing Lab at SNU to learn the basics of data science and machine learning led by Prof. [Bongwon Suh](https://scholar.google.co.kr/citations?user=-nlhtEkAAAAJ&hl=en). As a complex systems enthusiast who loves diversity and interdisciplinary research I was obsessed with the question "how actually interdisciplinary is the complexity science community?" While this topic was far from the Lab's main interests, I am thankful to Bongwon for teaching me everything I need to know in publishing [my first paper](https://link.springer.com/chapter/10.1007/978-3-030-67318-5_26). While I was aware that we should look into social systems at multiple levels, this was my first experience to actually do it computationally.
 
+Hoping to take a more physics approach in network science, I spent my summer at [KAIST](https://www.kaist.ac.kr/en/) and joined a project co-led by two physicists Profs. Juyong Park and Hawoong Jeong who were advised by [Mark Newman](http://www-personal.umich.edu/~mejn/) and [Albert-László Barabási](https://www.barabasilab.com/), respectively. At the end of the summer I reached out to Prof. [Javier Cha](https://javiercha.com/), a digital historian at SNU CLS for advice in analyzing longitudinal historical data and this is the moment when my network analysis has turned into [a paper in Korean history](https://ijkh.khistory.org/journal/view.php?number=540). I was building my [strength of weak ties](https://www.journals.uchicago.edu/doi/abs/10.1086/225469)! 
+
 ## Senior Year: Multi-Scale Analysis
 
 ## Post-Graduate: Cognitive Science

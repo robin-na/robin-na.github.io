@@ -41,7 +41,7 @@ I finished my thesis in physics while working closely with [Alexander Siegenfeld
 
 ## Post-Graduate: Cognitive Science
 
-Right after graduation I was thrilled to work with Prof. [Simon DeDeo](https://sites.santafe.edu/~simon/) at [Carnegie Mellon University](https://www.cmu.edu/) who is also part of SFI with doctoral training in physics. 
+Right after graduation I was thrilled to work with Prof. [Simon DeDeo](https://sites.santafe.edu/~simon/) at [Carnegie Mellon University](https://www.cmu.edu/) who is also part of SFI with doctoral training in physics. Simon exposed me to the fascinating world of cognitive science and natural language processing as we constructed methods to classify [how people make arguments in the wild](https://escholarship.org/uc/item/20n240qq). We were able to discover strong signals for social aspects of argument-making when it comes to predicting their efficacy, with implications that people do not argue just for the sake of claiming that they have the correct information but possibly for the sake of sharing their view on the larger system. 
 
 ## Present: Management Science
 

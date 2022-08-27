@@ -21,7 +21,7 @@ When it was time to declare my second major at CLS (you can probably infer what 
 
 ## Military Service: Complexity
 
-Like most South Korean men I was mandated to serve for the military for about two years and for me that was during my sophomore year. Also like most South Korean men this was not the most exciting part in my life but I was privileged to serve as an English-Korean translator participating in several missions in collaboration with the US Army where I met some of my best friends.
+Like most South Korean men I was mandated to serve in the military for about two years. Also like most South Korean men this was not the most exciting part of my life but I was privileged to serve as an English-Korean translator participating in several missions in collaboration with the US Army where I met some of my best friends outside of SNU and academia.
 
 During my little free time I enjoyed the break from SNU coursework and began taking courses (!) from the [Santa Fe Institute](https://www.santafe.edu/) (SFI) where I was fascinated by the dynamic interaction between the system and the environment. I also basked in books about chaos, information theory, and the use of big data and information systems in social science research, ironically in a digitally isolated environment. 
 

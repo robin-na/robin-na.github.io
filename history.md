@@ -7,7 +7,7 @@ subtitle: From Physics to Business – the Path Dependence
 This page outlines how my research interests have evolved since the first year of college for those who enjoy listening to other people's lives as I do myself. I always found it helpful and interesting to hear other researcher's preceding paths before landing into their current interests especially when their trajectory is rather non-traditional, because the concepts and perspectives that don't seem to connect when seen individually often do converge beautifully when you see what's been going on behind closed doors.
 
 
-## Freshman Year: Physics, Philosophy, Information
+## Freshman Year: Physics, Philosophy, and Information
 
 Before I start I would like to publicly thank my undergraduate institution, the College of Liberal Studies at [Seoul National University](https://en.snu.ac.kr/) (SNU CLS) for encouraging my chaotic journey, which is also addressed in my [graduation speech](https://cls.snu.ac.kr/board/story/view/15889) (in Korean!) I was honored to give.
 
@@ -41,7 +41,7 @@ I joined the Human Centered Computing Lab at SNU to learn the basics of data sci
 
 I spent my summer at [KAIST](https://www.kaist.ac.kr/en/) and joined a Korean history data analysis project co-led by two physicists Profs. Juyong Park and [Hawoong Jeong](https://scholar.google.com/citations?user=-Jhj6swAAAAJ&hl=en). At the end of the summer I reached out to Prof. [Javier Cha](https://javiercha.com/), a digital historian at SNU CLS for advice in analyzing longitudinal historical data and this is the moment when my network analysis has turned into [a paper in Korean history](https://ijkh.khistory.org/journal/view.php?number=540). I was building my [strength of weak ties](https://www.journals.uchicago.edu/doi/abs/10.1086/225469)! 
 
-## Senior Year: Multiscale Analysis
+## Senior Year: Mathematics for Multiscale Analysis
 
 Playing with data was fun, but I wanted to get a more thorough and understanding in the mathematics behind networks and complex systems.
 
@@ -49,7 +49,7 @@ At the start of my senior year I was fortunate to work with Prof. [Bryan Daniels
 
 I finished my thesis in physics while working closely with [Alexander Siegenfeld](https://scholar.google.com/citations?user=aXMvbIUAAAAJ&hl=en) and [Blake Elias](http://blakeelias.name/) at the [New England Complex Systems Institute](https://necsi.edu/). I constructed mathematical theory for the coarse-graining and renormalization of disease dynamics using statistical physics, linear algebra, differential equations, and Markov processes. This project taught me the importance of evaluating the assumptions in models that may not be generalized in different scales. I also learned how to think about not only different scales of interactions but also interactions between different scales.
 
-## Post-Graduate: Cognitive Science
+## Post-Graduate: Cognitive Science + NLP
 
 It became clear over the years that my research motivation at the coarsest scale is to understand collective human behavior. Just as I realized that a deep investigation into human cognition is unavoidable for such topics, I met just the right mentor to introduce me to the field.
 

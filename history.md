@@ -7,7 +7,7 @@ subtitle: From Physics to Business – the Path Dependence
 This page outlines how my research interests have evolved since the first year of college for those who enjoy listening to other people's lives as I do myself. I always found it helpful and interesting to hear other researcher's preceding paths before landing into their current interests especially when their trajectory is rather non-traditional, because the concepts and perspectives that don't seem to connect when seen individually often do converge beautifully when you see what's been going on behind the scenes.
 
 
-## Freshman Year: Physics, Philosophy, and Information
+## Freshman Year: Physics and Information
 
 Before I start I would like to publicly thank my undergraduate institution, the College of Liberal Studies at [Seoul National University](https://en.snu.ac.kr/) (SNU CLS) for encouraging my chaotic journey, which is also addressed in the [graduation speech (in Korean!)](https://cls.snu.ac.kr/board/story/view/15889) I was honored to give.
 
@@ -41,7 +41,7 @@ I joined the Human Centered Computing Lab at SNU to learn the basics of data sci
 
 I spent my summer at [KAIST](https://www.kaist.ac.kr/en/) and joined a Korean history data analysis project co-led by two physicists Profs. Juyong Park and [Hawoong Jeong](https://scholar.google.com/citations?user=-Jhj6swAAAAJ&hl=en). At the end of the summer I reached out to Prof. [Javier Cha](https://javiercha.com/), a digital historian at SNU CLS for advice in analyzing longitudinal historical data and this is the moment when my network analysis has turned into [a paper in Korean history](https://ijkh.khistory.org/journal/view.php?number=540). I was building my [strength of weak ties](https://www.journals.uchicago.edu/doi/abs/10.1086/225469)! 
 
-## Senior Year: Mathematics for Multiscale Analysis
+## Senior Year: Mathematics for Multiscale
 
 Playing with data was fun, but I wanted to get a more thorough and understanding in the mathematics behind networks and complex systems.
 

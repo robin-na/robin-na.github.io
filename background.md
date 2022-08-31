@@ -1,6 +1,6 @@
 ---
 layout: page
-title: History
+title: Background
 subtitle: From Physics to Business – the Path Dependence
 ---
 

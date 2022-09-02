@@ -6,7 +6,7 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a first-year PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at [MIT Sloan School of Management](https://mitsloan.mit.edu/), broadly interested in deploying various computational methods to understand collective human behaviors in IT-driven society. Such methods include network analysis, natural language processing, reinforcement learning, causal inference, and adaptive experiments. My self-aggrandizing ambitious research goal is to employ IT in a way that contributes to society where diverse ideas and backgrounds are appreciated while preventing polarizations and hiring biases that can be caused by social media and machine learning algorithms, which explains my current interests in algorithmic fairness and social network.
+I am a first-year PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at [MIT Sloan School of Management](https://mitsloan.mit.edu/), broadly interested in deploying various computational methods to understand collective human behaviors in IT-driven society. Such methods include network analysis, natural language processing, reinforcement learning, causal inference, and adaptive experiments. My self-aggrandizing ambitious research goal is to employ IT in a way that contributes to society where diverse ideas and backgrounds are appreciated while preventing polarizations and hiring biases that can be caused by social media and machine learning algorithms. This explains my current interests in algorithmic fairness and social network.
 
 Some topics I enjoy talking a lot about include but are certainly not limited to:
 

@@ -9,7 +9,7 @@ This page outlines how my research interests have evolved since the first year o
 
 ## Freshman Year: Physics and Information
 
-Before I start I would like to publicly thank my undergraduate institution, the College of Liberal Studies at [Seoul National University](https://en.snu.ac.kr/) (SNU CLS) for encouraging my chaotic journey, which is also addressed in the [graduation speech (in Korean!)](https://cls.snu.ac.kr/board/story/view/15889) I was honored to give. It is truly and exceptional program in South Korea for minds like myself.
+Before I start I would like to publicly thank my undergraduate institution, the College of Liberal Studies at [Seoul National University](https://en.snu.ac.kr/) (SNU CLS) for encouraging my chaotic journey, which is also addressed in the [graduation speech (in Korean!)](https://cls.snu.ac.kr/board/story/view/15889) I was honored to give. It is truly an exceptional program in South Korea for minds like myself.
 
 As a high school kid I was one of those obsessed with AP Physics and the Physics Olympiad purely because of the joy of studying mathematically elegant models of how objects **interact** but also realized that my heart starts pounding even harder when I think about the myriad **interactions** in the society we live in.
 

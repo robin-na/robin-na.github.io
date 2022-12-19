@@ -21,7 +21,7 @@ author: Robin Na
 
 navbar-links:
   CV: "/assets/files/CV_RobinNa.pdf"
-  Background: "background"
+  #Background: "background"
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"

@@ -8,7 +8,7 @@ subtitle: Massachusetts Institute of Technology
 
 I am a first-year PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at [MIT Sloan School of Management](https://mitsloan.mit.edu/), broadly interested in contributing to trustworthy artificial intelligence in our society. To do this, I study interactions between machine learning and social systems in two main streams.
 
-In one stream, I explore how to advance research methodologies in social and organizational science through adaptive experimentation and interpretable machine learning. This contributes to my ultimate goal of developing a better understanding of how the omnipresence of algorithmic decision-making influences our knowledge ecology. Optimistically, how can algorithms help us expand our knowledge by connecting the dots and revealing rich dimensions of subtleties previously less explored by humans? Pessimistically, how can algorithmic biases perpetuate social stratification and/or contribute to polarization and suboptimal collective performance?
+In one stream, I explore how to advance research methodologies in social and organizational science through integrative/adaptive experiment and interpretable machine learning. This contributes to the second stream, which is to develop a better understanding of how the omnipresence of algorithmic decision-making influences our knowledge ecology. Optimistically, how can algorithms help us expand our knowledge by connecting the dots and revealing rich dimensions of subtleties previously less explored by humans? Pessimistically, how can algorithmic biases perpetuate social stratification or contribute to polarization and suboptimal collective performance?
 
 <!---
 broadly interested in deploying various computational methods to understand collective human behaviors in IT-driven society. Such methods include network analysis, natural language processing, reinforcement learning, causal inference, and adaptive experiments. My ambitious research goal is to employ IT in a way that contributes to society where diverse ideas and backgrounds are appreciated while preventing polarization and discrimination that can be caused by social media and machine learning algorithms. This explains my current interests in algorithmic fairness and social network.
@@ -24,9 +24,9 @@ Some topics I enjoy talking a lot about include but are certainly not limited to
 --->
 
 
-Before MIT, I was a pre-doctoral fellow at [Carnegie Mellon University](https://www.cmu.edu/) working on natural language processing and computational cognitive science. I received my B.S. in physics and B.A. in knowledge ecology (student-designed major) from [Seoul National University](https://en.snu.ac.kr/) where I was fortunate to collaborate with amazing researchers from the [Santa Fe Institute](https://www.santafe.edu/), [New England Complex Systems Institute](https://necsi.edu/), and [Korea Advanced Institute of Science and Technology](https://www.kaist.ac.kr/en/) as an undergraduate.
+Before MIT, I graduated *summa cum laude* with B.S. in physics and B.A. in knowledge ecology (student-designed major) from [Seoul National University](https://en.snu.ac.kr/) as the College of Liberal Studies valedictorian. I was also a research fellow at [Carnegie Mellon University](https://www.cmu.edu/) working on natural language processing and computational cognitive science.
 
-My studies have been generously supported by the highest paying merit-based scholarships in South Korea: SBS Foundation Fellowship for Future Talent (graduate) and the [Presidential Science Scholarship](https://www.kosaf.go.kr/eng/jsp/aid/aid02_01_01.jsp) in physics (undergraduate).
+My studies have been generously supported by the highest paying merit-based scholarships in South Korea: SBS Foundation Fellowship for Future Talent (graduate) and the Presidential Science Scholarship in physics (undergraduate).
 
 ## Connect
 

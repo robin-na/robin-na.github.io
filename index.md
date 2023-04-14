@@ -24,7 +24,7 @@ Some topics I enjoy talking a lot about include but are certainly not limited to
 --->
 
 
-Before MIT, I graduated *summa cum laude* with B.S. in physics and B.A. in knowledge ecology (student-designed major) from [Seoul National University](https://en.snu.ac.kr/) as the College of Liberal Studies valedictorian. I was also a research fellow at [Carnegie Mellon University](https://www.cmu.edu/) working on natural language processing and computational cognitive science.
+Before MIT, I graduated *summa cum laude* with B.S. in physics and B.A. in knowledge ecology (student-designed major) from [Seoul National University](https://en.snu.ac.kr/) with the honor to deliver a speech representing the College of Liberal Studies. I was also a research fellow at [Carnegie Mellon University](https://www.cmu.edu/) working on natural language processing and computational cognitive science.
 
 My studies have been generously supported by the highest paying merit-based scholarships in South Korea: SBS Foundation Fellowship for Future Talent (graduate) and the Presidential Science Scholarship in physics (undergraduate).
 

@@ -10,7 +10,7 @@ I am a first-year PhD student in [Information Technology](https://mitsloan.mit.e
 
 In one stream, I explore how to advance research methodologies in social and organizational science through integrative/adaptive experiment and interpretable machine learning. This contributes to the second stream, which is to develop a better understanding of how the omnipresence of algorithmic decision-making influences our knowledge ecosystem. Optimistically, how can algorithms help us expand our knowledge by connecting the dots and revealing rich dimensions of subtleties previously less explored by humans? Pessimistically, how can algorithmic biases perpetuate social stratification or contribute to polarization and suboptimal collective performance?
 
-For the summer of 2023, I am working as a PhD intern at [Amazon](https://www.amazon.science/) working at the intersection of network science, machine learning, and organizational strategy for research communities.
+For the summer of 2023, I am joining [Amazon](https://www.amazon.science/) as a PhD intern working at the intersection of network science, machine learning, and organizational strategy for research communities.
 
 <!---
 broadly interested in deploying various computational methods to understand collective human behaviors in IT-driven society. Such methods include network analysis, natural language processing, reinforcement learning, causal inference, and adaptive experiments. My ambitious research goal is to employ IT in a way that contributes to society where diverse ideas and backgrounds are appreciated while preventing polarization and discrimination that can be caused by social media and machine learning algorithms. This explains my current interests in algorithmic fairness and social network.

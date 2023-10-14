@@ -6,7 +6,7 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT, broadly interested in developing generative models and knowledge representation techniques for intelligent decision support system. Moreover, I am working towards de-biasing such models to prevent overgeneralization, ensuring they accurately reflect the heterogeneity of our experiences.
+I am a PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT, broadly interested in developing generative models and knowledge representation techniques for intelligent decision support system. Moreover, I am working towards de-biasing such models to prevent overgeneralization, ensuring they accurately reflect the heterogeneity of our experiences. I interned at Amazon Alexa AI for the summer of 2023.
 
 <!--
 In one stream, I explore how to advance research methodologies in social and organizational science through integrative/adaptive experiment and interpretable machine learning. This contributes to the second stream, which is to develop a better understanding of how the omnipresence of algorithmic decision-making influences our knowledge ecosystem. Optimistically, how can algorithms help us expand our knowledge by connecting the dots and revealing rich dimensions of subtleties previously less explored by humans? Pessimistically, how can algorithmic biases perpetuate social stratification or contribute to polarization and suboptimal collective performance? -->
@@ -16,7 +16,7 @@ broadly interested in deploying various computational methods to understand coll
 --->
 
 
-Before MIT, I received my B.S. in physics and B.A. in knowledge ecology (student-designed major) from Seoul National University. After that, I worked as a research fellow at Carnegie Mellon University working on NLP and cognitive science. I also interned at Amazon during my PhD.
+Before MIT, I received my B.S. in physics and B.A. in knowledge ecology (student-designed major) from Seoul National University. After that, I was at Carnegie Mellon University as a research fellow in NLP and cognitive science.
 
 My studies have been generously supported by scholarships with the most competitive funding in South Korea: SBS Foundation Scholarship (graduate) and the Presidential Science Scholarship in physics (undergraduate).
 

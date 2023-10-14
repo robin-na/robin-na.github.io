@@ -6,7 +6,7 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, broadly interested in developing generative models and knowledge representation techniques for intelligent decision support system. Moreover, I am working towards de-biasing such models to prevent overgeneralization, ensuring they accurately reflect the heterogeneity of our experiences.
+I am a PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT, broadly interested in developing generative models and knowledge representation techniques for intelligent decision support system. Moreover, I am working towards de-biasing such models to prevent overgeneralization, ensuring they accurately reflect the heterogeneity of our experiences.
 
 <!--
 In one stream, I explore how to advance research methodologies in social and organizational science through integrative/adaptive experiment and interpretable machine learning. This contributes to the second stream, which is to develop a better understanding of how the omnipresence of algorithmic decision-making influences our knowledge ecosystem. Optimistically, how can algorithms help us expand our knowledge by connecting the dots and revealing rich dimensions of subtleties previously less explored by humans? Pessimistically, how can algorithmic biases perpetuate social stratification or contribute to polarization and suboptimal collective performance? -->

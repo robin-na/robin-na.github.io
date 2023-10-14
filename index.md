@@ -6,7 +6,7 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, broadly interested in developing generative models and representation learning techniques for mapping the complex contingency of social systems. Moreover, I am working towards de-biasing such models to prevent overgeneralization, ensuring they accurately reflect the heterogeneity of our experiences.
+I am a PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, broadly interested in developing generative models and knowledge representation techniques for intelligent decision support system. Moreover, I am working towards de-biasing such models to prevent overgeneralization, ensuring they accurately reflect the heterogeneity of our experiences.
 
 <!--
 In one stream, I explore how to advance research methodologies in social and organizational science through integrative/adaptive experiment and interpretable machine learning. This contributes to the second stream, which is to develop a better understanding of how the omnipresence of algorithmic decision-making influences our knowledge ecosystem. Optimistically, how can algorithms help us expand our knowledge by connecting the dots and revealing rich dimensions of subtleties previously less explored by humans? Pessimistically, how can algorithmic biases perpetuate social stratification or contribute to polarization and suboptimal collective performance? -->
@@ -22,7 +22,7 @@ My studies have been generously supported by scholarships with the most competit
 
 ## Connect
 
-My publications and ongoing projects so far are the results of collaborating with physicists, computer scientists, historians, biologists, cognitive scientists, and social scientists, which implies how open I am to interdisciplinary discussions. If there's any interesting research ideas you would like to discuss, please don't hesitate to write me an email!
+My publications and ongoing projects so far are the results of collaborating with physicists, computer scientists, historians, biologists, cognitive scientists, and political scientists, which implies how open I am to interdisciplinary discussions. If there's any interesting research ideas you would like to discuss, please don't hesitate to write me an email!
 
 ```
 robinna[at]mit[dot]edu

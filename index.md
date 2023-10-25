@@ -18,7 +18,7 @@ broadly interested in deploying various computational methods to understand coll
 --->
 
 
-Before MIT, I received my B.S. in physics and B.A. in knowledge ecology (student-designed major) from Seoul National University. After that, I was at Carnegie Mellon University as a research fellow in NLP and cognitive science.
+Before MIT, I was a research fellow at Carnegie Mellon University specializing in NLP and computational cognitive science. I received my B.S. in physics and B.A. in knowledge ecology (student-designed major) from Seoul National University.
 
 My studies have been generously supported by scholarships with the most competitive funding in South Korea: SBS Foundation Scholarship (graduate) and the Presidential Science Scholarship in physics (undergraduate).
 

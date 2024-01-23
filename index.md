@@ -6,7 +6,7 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a second-year PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, exploring the intersection of artificial intelligence, knowledge representation/transfer, and societal decision-making. My research is particularly centered on the generalization problem. This includes generalizable machine learning and domain adaptation, the generalizability crisis in the social sciences, and the consequences of overgeneralization in algorithmic hiring.
+I am a second-year PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, exploring the intersection of artificial intelligence, knowledge representation/transfer, and societal decision-making. My research is particularly centered on the generalization problem. This includes domain generalization in machine learning, the generalizability crisis in the social sciences, and the consequences of overgeneralization in algorithmic hiring.
 
 I interned at Amazon Alexa AI for the summer of 2023.
 

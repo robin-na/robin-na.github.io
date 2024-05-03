@@ -8,7 +8,7 @@ subtitle: Massachusetts Institute of Technology
 
 I am a second-year PhD student in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, exploring the intersection of artificial intelligence, scientific knowledge, and societal decision-making. My research is particularly centered on the generalization problem, which encompasses domain generalization in machine learning and the generalizability crisis in the social sciences. Ultimately, the investigation aims to enhance human decision-making under shifting environments through AI systems that integrate scientific knowledge with a wide spectrum of underrepresented social contexts.
 
-I interned at Amazon Alexa AI for the summer of 2023 and am excited to return to their Search AI team in 2024, specializing in multimodal generative AI!
+I interned at Amazon Alexa AI for the summer of 2023 and am joining Amazon Search AI in 2024, specializing in multimodal generative models!
 
 <!--
 In one stream, I explore how to advance research methodologies in social and organizational science through integrative/adaptive experiment and interpretable machine learning. This contributes to the second stream, which is to develop a better understanding of how the omnipresence of algorithmic decision-making influences our knowledge ecosystem. Optimistically, how can algorithms help us expand our knowledge by connecting the dots and revealing rich dimensions of subtleties previously less explored by humans? Pessimistically, how can algorithmic biases perpetuate social stratification or contribute to polarization and suboptimal collective performance? -->

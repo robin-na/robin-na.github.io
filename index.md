@@ -10,7 +10,7 @@ I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/facult
 
 As a computer scientist, I focus on building generative models that improve predictions by integrating scientific resources and providing recommendations that are both accurate and appealing to human decision-makers. As a social scientist, I conduct metascientific critiques to identify which scientific findings are useful for predictions in different contexts and assess the enterprise's effectiveness of generating cumulative knowledge for predicting social phenomena.
 
-Currently, I am an Applied Scientist Intern at Amazon Search AI, specializing in large language models and knowledge representation. I interned at Amazon Alexa AI during the summer of 2023.
+Currently, I am an Applied Scientist Intern at Amazon, specializing in large language models and knowledge representation. I interned at Amazon Alexa AI during the summer of 2023.
 
 Before joining MIT, I was a research fellow at Carnegie Mellon University, specializing in language models and human cognition. I hold a B.S. in physics and a B.A. in knowledge ecology from Seoul National University.
 

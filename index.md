@@ -26,7 +26,7 @@ broadly interested in deploying various computational methods to understand coll
 
 ## Connect
 
-My publications and ongoing projects so far are the results of collaborating with physicists, computer scientists, historians, cognitive scientists, and political scientists, which implies how open I am to interdisciplinary discussions. If there's any interesting research ideas you would like to discuss, please don't hesitate to write me an email!
+My publications and ongoing projects so far are the results of collaborating with physicists, computer scientists, historians, cognitive scientists, and sociologists, which implies how open I am to interdisciplinary discussions. If there's any interesting research ideas you would like to discuss, please don't hesitate to write me an email!
 
 ```
 robinna[at]mit[dot]edu

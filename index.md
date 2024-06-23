@@ -6,7 +6,7 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, exploring the intersection of artificial intelligence, scientific knowledge, and human-AI decision-making. In other words, I investigate in multiple aspects of human-AI-science interaction for improved decision-making as a computer scientist and a social scientst.
+I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, exploring the intersection of artificial intelligence, scientific knowledge, and human-AI decision-making. In other words, I investigate in multiple aspects of human-AI-science interaction for improved decision-making as a computer scientist and a social scientist.
 
 As a computer scientist, I focus on building generative models that improve predictions by integrating scientific resources and providing recommendations that are both accurate and appealing to human decision-makers. As a social scientist, I conduct metascientific critiques to identify which scientific findings are useful for predictions in different contexts and assess the enterprise's effectiveness of generating cumulative knowledge for predicting social phenomena.
 

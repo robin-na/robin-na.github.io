@@ -6,7 +6,9 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan where I work on large language models, metascience, and human-AI decision-making. My research is driven by the goal of constructing generative AI agents and scientific knowledge that assist human users in complex decision-making. This includes improving the agents' accuracy in predicting human behaviors under various unforeseen situations, as well as their ability to generate explanations that are appealing to human decision-makers.  I also conduct metascientific investigations to evaluate how successful the current state of social science is in terms of generating cumulative knowledge for improved decision support and how AI-assisted science can contribute to achieving this goal.
+I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan where I work on large language models, metascience, and human-AI decision-making. My research is driven by the goal of constructing generative AI agents and scientific knowledge that assist human users in complex decision-making. This includes improving the agents' accuracy in predicting human behaviors under various unforeseen situations, as well as their ability to generate explanations that are appealing to human decision-makers. I also conduct metascientific investigations in social science, focusing on how AI can assist in evaluating and generating scientific knowledge for enhanced human-AI decision-making.
+
+how successful the current state of social science is in terms of generating cumulative knowledge for improved decision support and how AI-assisted science can contribute to achieving this goal.
 
 Currently, I am an Applied Scientist Intern at Amazon, specializing in large language models and knowledge retrieval. I interned at Amazon Alexa AI during the summer of 2023.
 

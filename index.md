@@ -6,11 +6,9 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan, exploring the intersection of artificial intelligence, scientific knowledge, and human-AI decision-making. In other words, I investigate in multiple aspects of human-AI-science interaction for improved decision-making as a computer scientist and a social scientist.
+I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan where I work on large language models, metascience, and human-AI decision-making. My research is driven by the goal of constructing generative AI agents and scientific knowledge that assist human users in complex decision-making. This includes improving the agents' accuracy in predicting human behaviors under various unforeseen situations, as well as their ability to generate explanations that are appealing to human decision-makers. I also conduct metascientific investigations in the social, behavioral, and management sciences to evaluate how scientific findings can enhance foundational models toward this goal.
 
-As a computer scientist, I focus on building generative models that improve predictions by integrating scientific resources and providing recommendations that are both accurate and appealing to human decision-makers. As a social scientist, I conduct metascientific critiques to identify which scientific findings are useful for predictions in different contexts and assess the enterprise's effectiveness of generating cumulative knowledge for predicting social phenomena.
-
-Currently, I am an Applied Scientist Intern at Amazon, specializing in large language models and knowledge representation. I interned at Amazon Alexa AI during the summer of 2023.
+Currently, I am an Applied Scientist Intern at Amazon, specializing in large language models and knowledge retrieval. I interned at Amazon Alexa AI during the summer of 2023.
 
 Before joining MIT, I was a research fellow at Carnegie Mellon University, specializing in language models and human cognition. I hold a B.S. in physics and a B.A. in knowledge ecology from Seoul National University.
 

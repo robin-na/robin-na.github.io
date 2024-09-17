@@ -24,7 +24,7 @@ broadly interested in deploying various computational methods to understand coll
 
 ## Connect
 
-I always love to interact with and learn from people with diverse perspectives, regardless of discipline. If there are any interesting research ideas you would like to discuss, please don't hesitate to email me!
+I always love to interact with and learn from people with diverse perspectives. If there are any interesting research ideas you would like to discuss, please don't hesitate to email me!
 
 ```
 robinna[at]mit[dot]edu

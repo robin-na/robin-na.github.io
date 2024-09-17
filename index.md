@@ -6,9 +6,9 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan where I work on large language models, metascience, and human-AI decision-making. My research is driven by the goal of constructing generative AI agents and scientific knowledge that assist human users in complex decision-making. This includes improving the agents' accuracy in predicting human behaviors under various unforeseen situations, as well as their ability to generate explanations that are appealing to human decision-makers. I also conduct metascientific investigations in social science, focusing on how AI can assist in evaluating and generating scientific knowledge for enhanced human-AI decision-making.
+I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan working on large language models, metascience, and human-AI decision-making. I work on generative AI for enhancing research methods in social science, which in turn also improves the AI's ability to better represent human behavior under diverse contexts. This reciprocal improvement between computer science and social science ultilmately contributes to understanding and improving how decision-makers engage with scientific knowledge in the era of generative AI.
 
-Currently, I am an Applied Scientist Intern at Amazon, specializing in large language models and knowledge retrieval. I interned at Amazon Alexa AI during the summer of 2023.
+I interned at Amazon Alexa AI and Amazon Search AI for two summers of my PhD, specializing in social networks, LLMs, and knowledge retrieval.
 
 Before joining MIT, I was a research fellow at Carnegie Mellon University, specializing in language models and human cognition. I hold a B.S. in physics and a B.A. in knowledge ecology from Seoul National University.
 
@@ -24,7 +24,7 @@ broadly interested in deploying various computational methods to understand coll
 
 ## Connect
 
-My publications and ongoing projects so far are the results of collaborating with physicists, computer scientists, historians, cognitive scientists, and sociologists, which implies how open I am to interdisciplinary discussions. If there's any interesting research ideas you would like to discuss, please don't hesitate to write me an email!
+I always love to interact with and learn from people with diverse perspectives, regardless of discipline. If there are any interesting research ideas you would like to discuss, please don't hesitate to email me!
 
 ```
 robinna[at]mit[dot]edu

@@ -8,7 +8,7 @@ subtitle: Massachusetts Institute of Technology
 
 I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT Sloan working on large language models (LLMs), metascience, and human-AI decision-making. I work on generative AI for enhancing research methods in social science, which in turn also strengthens the AI's ability to better represent human behavior under diverse contexts. Bridging computer science and social science this way ultimately contributes to understanding and improving how decision-makers engage with scientific knowledge in the age of generative AI.
 
-I interned at Amazon Alexa AI and Amazon Search AI for two summers of my PhD, specializing in social networks, LLMs, and knowledge retrieval.
+I spent two summers at Amazon as an Applied Scientist Intern, specializing in social networks, LLMs, and knowledge retrieval.
 
 Before joining MIT, I was a research fellow at Carnegie Mellon University, specializing in language models and human cognition. I hold a B.S. in physics and a B.A. in knowledge ecology from Seoul National University.
 

@@ -6,9 +6,9 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT working on large language models (LLMs), metascience, and human-AI decision-making. I am extremely fortunate to be advised by Profs. [Abdullah Almaatouq](https://amaatouq.io/) and [Michiel Bakker](https://mitsloan.mit.edu/faculty/directory/michiel-anton-bakker).
+I am a PhD candidate in [Information Technology](https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us) at MIT working on large language models (LLMs), metascience, and human-AI decision-making. I am extremely fortunate to be advised by Profs. [Abdullah Almaatouq](https://amaatouq.io/) and [Michiel Bakker](https://www.miba.dev/).
 
-I work on generative AI for enhancing research methods in social science, which in turn also strengthens the AI's ability to better predict human behavior under diverse contexts. Bridging computer science and social science this way ultimately contributes to understanding and improving how decision-makers engage with scientific knowledge in the age of generative AI.
+I work on generative AI for enhancing research methods in social science, which in turn also strengthens the AI's ability to better represent human behavior under diverse contexts. Bridging computer science and social science this way ultimately contributes to understanding and improving how decision-makers engage with scientific knowledge in the age of generative AI.
 
 I interned with two AI research teams at Amazon during the summers of 2023 and 2024, where I led projects on social networks, LLMs, and knowledge retrieval.
 

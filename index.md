@@ -6,9 +6,9 @@ subtitle: Massachusetts Institute of Technology
 
 ## About Me
 
-I am a PhD candidate in Information Technology at MIT working on generative AI for understanding collective human behavior. I am extremely fortunate to be advised by Profs. [Abdullah Almaatouq](https://amaatouq.io/) and [Michiel Bakker](https://www.miba.dev/).
+I am a PhD candidate in Information Technology at MIT working at the intersection of AI and (collective) human behavior. I am extremely fortunate to be advised by Profs. [Abdullah Almaatouq](https://amaatouq.io/) and [Michiel Bakker](https://www.miba.dev/).
 
-My research centers on building AI systems that better understand human behavior and social systems across diverse contexts. To this end, I explore metascientific questions about how AI can help improve research methods and practices. I also study how humans interact with AI and scientific knowledge in making decisions. I have deep interests in multi-agent systems — whether composed of humans, machines, or hybrid collectives.
+My research centers on building AI systems that better understand human behavior and social systems across diverse contexts, ultimately suggesting interventions to increase the welfare in collective settings. To this end, I explore metascientific questions about how AI can help improve research methods and practices as well as how to best evaluate AI-assisted predictions and simulation. I also study how humans interact with AI and scientific knowledge in making decisions. I have deep interests in multi-agent systems — whether composed of humans, machines, or hybrid collectives.
 
 I interned with two AI research teams at Amazon during the summers of 2023 and 2024, where I led projects on social networks, LLMs, and knowledge retrieval. Before joining MIT, I was a research fellow at Carnegie Mellon University, specializing in language models and human cognition. I hold a B.S. in physics and a B.A. in knowledge ecology from Seoul National University.
 

@@ -1,0 +1,468 @@
+%% start of file `template.tex'.
+%% Copyright 2006-2013 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+
+\documentclass[11pt,a4paper,roman]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+\usepackage{mathpazo}
+
+\usepackage{comment} % comment out
+
+% modern themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstyle' and 'banking'
+
+\moderncvcolor{burgundy}                                % color options 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'black'
+\setmainfont{TeX Gyre Pagella} % set font to Palatino
+
+%\renewcommand{\sfdefault}{\rmdefault}         % to set the default font; use '\sfdefault' for the default sans serif font, '\rmdefault' for the default roman one, or any tex font name
+\nopagenumbers{}                                  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+% character encoding
+\usepackage[utf8]{inputenc}
+\usepackage{fontawesome}
+\usepackage{fontspec}
+\usepackage{tabularx}
+\usepackage{ragged2e}
+% if you are not using xelatex ou lualatex, replace by the encoding you are using
+%\usepackage{CJKutf8}                              % if you need to use CJK to typeset your resume in Chinese, Japanese or Korean
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+\usepackage{multicol}
+%\setlength{\hintscolumnwidth}{3cm}                % if you want to change the width of the column with the dates
+%\setlength{\makecvtitlenamewidth}{10cm}           % for the 'classic' style, if you want to force the width allocated to your name and avoid line breaks. be careful though, the length is normally calculated to avoid any overlap with your personal info; use this at your own typographical risks...
+
+\usepackage{import}
+
+% personal data
+\name{Robin}{Na}
+% \title{Curriculum Vitae}                               % optional, remove / comment the line if not wanted
+\address{Massachusetts Institute of Technology}{}{}% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+% \phone[mobile]{909-839-3097}                   % optional, remove / comment the line if not wanted
+% \phone[fixed]{01234 123456}                    % optional, remove / comment the line if not wanted
+%\phone[fax]{+3~(456)~789~012}                      % optional, remove / comment the line if not wanted
+% \email{xpan1@swarthmore.edu}                               % optional, remove / comment the line if not wanted
+% \homepage{shawnpan.me}                         % optional, remove / comment the line if not wanted
+% \extrainfo{}                 % optional, remove / comment the line if not wanted
+%\photo[64pt][0.4pt]{picture}                       % optional, remove / comment the line if not wanted; '64pt' is the height the picture must be resized to, 0.4pt is the thickness of the frame around it (put it to 0pt for no frame) and 'picture' is the name of the picture file
+%\quote{Some quote}                                 % optional, remove / comment the line if not wanted
+
+% to show numerical labels in the bibliography (default is to show no labels); only useful if you make citations in your resume
+%\makeatletter
+%\renewcommand*{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}
+%\makeatother
+%\renewcommand*{\bibliographyitemlabel}{[\arabic{enumiv}]}% CONSIDER REPLACING THE ABOVE BY THIS
+
+% bibliography with mutiple entries
+%\usepackage{multibib}
+%\newcites{book,misc}{{Books},{Others}}
+  
+\newcommand*{\customcventry}[7][.25em]{
+  \begin{tabular}{@{}l} 
+    {\bfseries #4}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\bfseries #5}
+  \end{tabular} \\
+  \begin{tabular}{@{}l} 
+    {%\itshape
+    #3}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     { #2}
+  \end{tabular}
+  \ifx&#7&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#7%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+
+%% cv with multiple degrees
+\newcommand*{\customcventrymul}[9][.25em]{
+  \begin{tabular}{@{}l} 
+    {\bfseries #6}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\bfseries #7}
+  \end{tabular} \\
+  \begin{tabular}{@{}l} 
+    {%\itshape
+    #3}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     { #2}
+  \end{tabular}
+  
+  % another block
+  \begin{tabular}{@{}l} 
+    {%\itshape
+    #5}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     { #4}
+  \end{tabular}
+  
+  \ifx&#9&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#9%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+
+\newcommand*{\customcvproject}[4][.25em]{
+%   \vfill\noindent
+  \begin{tabular}{@{}l} 
+    {\bfseries #2}
+  \end{tabular}
+  \hfill% move it to the right
+  \begin{tabular}{l@{}}
+     {\itshape #3}
+  \end{tabular}
+  \ifx&#4&%
+  \else{\\%
+    \begin{minipage}{\maincolumnwidth}%
+      \small#4%
+    \end{minipage}}\fi%
+  \par\addvspace{#1}}
+
+\setlength{\tabcolsep}{12pt}
+
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+\makecvtitle
+\vspace*{-23mm}
+
+\begin{center}
+\begin{tabular}{ c c c c }
+ \faGlobe\enspace robin-na.github.io & \faEnvelopeO\enspace robinna [at] mit.edu & \faLinkedin\enspace robinna % & \faGithub\enspace robin-na \\  
+\end{tabular}
+\end{center}
+
+
+
+%\section{Research Interests}
+
+%Large Language Models, Metascience, Human-AI Decision-Making, Multi-Agent Systems
+
+%\begin{itemize}
+%    \item[--] Large Language Models, Knowledge Representation, Generalization \& Adaptation, AI Hiring
+%    \item[--] Generalization problem in machine learning, social science, and AI decision-making
+%\end{itemize}
+
+%Social Systems: collective intelligence, polarization and inequality, information diffusion
+
+%Computational Social Science: natural language processing, social networks, online communications
+
+%Organizational Behavior: collective intelligence, cultural evolution, diversity and polarization
+
+%Complex Systems: emergent behavior, multiscale analysis, agent-based modeling
+
+
+\section{Education}
+%{\customcventrymul{2022 – Present}{Ph.D. Candidate in Information Technology}{}{MicroMasters in Statistics and Data Science}{Massachusetts Institute of Technology}{Cambridge, MA}{}
+%{}
+%}
+{\customcventry{2022 – Present}{Ph.D. Candidate in Information Technology}{Massachusetts Institute of Technology}{Cambridge, MA}{}
+{\begin{itemize}
+    \setlength{\itemindent}{1em}
+    \item[--] Advisors: Abdullah Almaatouq, Michiel Bakker
+\end{itemize}
+}
+}
+
+
+{\customcventry{2021}{B.S. in Physics \& B.A. in Knowledge Ecology (student-designed major)}{Seoul National University}{Seoul, South Korea}{}
+{\begin{itemize}
+    \setlength{\itemindent}{1em}
+    \item[--] \textit{summa cum laude} | Valedictorian/Dean's Award | Korea Presidential Science Scholar
+\end{itemize}}
+}
+
+
+
+\section{Research Experience}
+
+{\customcventry{2024}{Applied Scientist Intern, Search Experience Team%— LLM+RAG for predicting heterogeneous treatment effects
+}{Amazon}{Palo Alto, CA}{}
+{%\begin{itemize} 
+%\item[--] Fine-tuned LLM+RAG for predicting heterogeneous treatment effects in human preferences
+%\end{itemize}
+}}
+
+{\customcventry{2023}{Applied Scientist Intern, Science of Science Team%— network analysis across Amazon scientists and projects
+}{Amazon}{Seattle, WA}{}
+{%\begin{itemize}
+ % \item[--] Network optimization across Amazon scientists to %strengthen cross-team collaborations
+%\end{itemize}
+}}
+
+{\customcventry{2021 – 2022}{Research Fellow, Laboratory for Social Minds% (PI: Simon DeDeo)
+}{Carnegie Mellon University}{Pittsburgh, PA}{}
+{}}
+
+{\customcventry{2020 – 2021}{Undergraduate Researcher, Multiscale Modeling% (Mentors: Alexander Siegenfeld, Yaneer Bar-Yam)
+}{New England Complex Systems Institute}{Cambridge, MA}{}
+{}}
+
+
+{\customcventry{2020}{Undergraduate Researcher, Collective Logic Lab %(Mentor: Bryan Daniels)
+}{ASU-Santa Fe Institute Center for Complex Systems}{Tempe, AZ}{}
+{}}
+
+{\customcventrymul{2019}{Undergraduate Researcher, Big Data Studies Lab% (PI: Javier Cha)
+}{2019}{Undergraduate Researcher, Human-Centered Computing Lab% (PI: Bongwon Suh)
+}{Seoul National University}{Seoul, South Korea}{}
+{}}
+
+
+{\customcventry{2019}{Undergraduate Researcher, Complexity and Network Science Group% (PI: Juyong Park)
+}{Korea Advanced Institute of Science and Technology}{Daejeon, South Korea}{}
+{}}
+
+\section{Awards and Fellowships (Selected)}
+\begin{comment}
+\begingroup
+
+\begin{itemize}
+    \item Best Paper Awards
+    \small{
+	\begin{enumerate}
+	  \item First Place, Seoul National University Presidential Award for Undergraduate Research \hfill 2021
+	  \item First Place, Seoul National University College of Liberal Studies Research Festival \hfill 2020
+	  \item First Place, Seoul National University College of Liberal Studies Research Festival \hfill 2019
+      %  \item First Place in College, Mathematics Achievement Exam for Seoul National University admits
+
+	\end{enumerate}}%
+\end{itemize}
+
+\vspace{0.7em} % empty line
+
+\begin{itemize}
+	\item Fellowships and Grants
+	\small{
+	\begin{enumerate}
+	  \item SBS Foundation Graduate Scholarship (3 STEM recipients in South Korea) \hfill 2022 – 2028
+	  \item MIT Sloan PhD Fellowship  \hfill 2022 – 2027
+        \item International Conference on the Science of Science and Innovation Travel Grant \hfill 2024
+        \item Santa Fe Institute Summer School Travel Award \hfill 2023
+        %\item Stanford University Knight-Hennessy Scholars Semifinalist \hfill 2022
+	  \item Seoul National University Undergraduate Research Grant \hfill 2020
+	  \item Seoul National University Student-Designed Major Scholarship \hfill 2019 – 2021
+	  \item Korea Presidential Science Scholarship in Physics (full tuition + stipend) \hfill 2015 – 2021
+
+	\end{enumerate}}%
+
+\end{itemize}
+
+\vspace{0.7em} % empty line
+
+\begin{itemize}
+	\item Teaching and Service Awards
+	\small{
+	\begin{enumerate}
+	  \item Seoul National University Volunteer Service Award for Teaching North Korean Students \hfill 2020
+	\end{enumerate}}%
+
+\end{itemize}
+    
+
+\endgroup
+
+
+\end{comment}
+
+    \small{
+        \begin{itemize}
+        \item[--] SBS Foundation Graduate Scholarship (3 STEM recipients in Korea) \hfill 2022 – 2028
+	  \item[--] DuWayne J. Peterson, Jr. (1955) Fellowship at MIT  \hfill 2022 – 2027
+        %\item[--] International Conference on the Science of Science and Innovation Travel Grant \hfill 2024
+        %\item[--] Santa Fe Institute Summer School Travel Award \hfill 2023
+        %=\item[--] Valedictorian/Dean's Award, Seoul National University College of Liberal Studies \hfill 2021
+        \item[--] Korea Presidential Science Scholarship in Physics (\textasciitilde20 selected nationally) \hfill 2015 – 2021
+        \item[--] First Place ($\times$3), Seoul National University Research Awards \hfill 2019 – 2021
+        \item[--] Seoul National University Student-Designed Major Scholarship \hfill 2019 – 2021
+        \item[--] Seoul National University Undergraduate Research Grant \hfill 2020 – 2021
+        %\item[--] First Place, Seoul National University Presidential Award for Undergraduate Research \hfill 2021        
+        %\item[--] Seoul National University Volunteer Service Award (physics \& math tutor) \hfill 2020
+	  %\item[--] First Place, Seoul National University College of Liberal Studies Research Festival \hfill 2020
+	  %\item[--] First Place, Seoul National University College of Liberal Studies Research Festival \hfill 2019
+       % \item[--] First Place in College, Seoul National University-wide Mathematics Achievement Exam \hfill 2015
+    	\end{itemize}
+    	}
+
+
+\section{Publications}
+
+\begin{itemize}
+    \item Work in Progress
+    \vspace{0.3em} % empty line
+    \small{
+	\begin{enumerate}
+        \item ``Auditing Scientific Literatures with Large Language Models." \textbf{Robin Na}, Duncan J. Watts, Abdullah Almaatouq. Working paper.
+      
+	\end{enumerate}}%
+\end{itemize}
+
+\vspace{0.7em} % empty line
+
+\begin{itemize}
+    \item Manuscripts Under Review
+    \vspace{0.3em} % empty line
+    \small{
+	\begin{enumerate}
+
+	  \item ``Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior." \textbf{Robin Na}, Kehang Zhu, Logan Cross, and Michiel Bakker. Under review at \textit{Information Systems Research}.
+        \item ``Post-training makes large language models less human-like." Marcel Binz et al. including \textbf{Robin Na}. Under review at \textit{Science}.
+        \item ``Self-similarity in Pandemic Spread and Fractal Containment Policies." Alexander F. Siegenfeld, Asier Pi\~neiro Orioli, \textbf{Robin Na}, Blake Elias, Yaneer Bar-Yam.
+      
+	\end{enumerate}}%
+\end{itemize}
+
+\vspace{0.7em} % empty line
+
+\begin{itemize}
+    \item Peer-Reviewed Publications \hfill \footnotesize{*Equal Contributions}
+    \vspace{0.3em} % empty line
+    \small{
+	\begin{enumerate}
+        \item ``The Integration of Explanation and Prediction in Behavioral Science" Abdullah Almaatouq, \textbf{Robin Na}. \textit{Current Directions in Psychological Science}, 35(3), 2026.
+        \item ``The Diversity of Argument-Making in the Wild: from Assumptions and Definition to Causation and Anecdote in Reddit's `Change My View.'" \textbf{Robin W. Na}, Simon DeDeo. \textit{Proceedings of the $44^{th}$ Annual Conference of the Cognitive Science Society}. 2022. % [acceptance rate 27\%, average reviewer score 4.33/5]
+      \item ``Snakes or Ladders? Measuring the Intergenerational Performance of Chosŏn’s Munkwa Exam Candidates." \textbf{Robin W. Na}*, Javier Cha*. \textit{International Journal of Korean History}. 2021.
+	  \item ``Multi-level Co-authorship Network Analysis on Interdisciplinarity: A Case Study on the Complexity Science Community." \textbf{Robin W. Na}, Bongwon Suh. \textit{Proceedings of the $10^{th}$ International Conference on Complex Systems} Springer, Cham. 2020.
+	\end{enumerate}}%
+\end{itemize}
+
+\vspace{0.7em} % empty line
+
+
+\section{Invited Seminars and Conferences (Selected)}
+    \small{
+        \begin{itemize}
+        \item[--] UserSim Workshop at Conference on Neural Information Processing Systems \hfill 2026
+        \item[--] MIT Conference on Digital Experimentation \hfill 2024, 2025, 2026
+        \item[--] INFORMS Annual Meeting \hfill 2024, 2026
+        \item[--] Symposium on Statistical Challenges in Electronic Commerce Research \hfill 2026
+        \item[--] Columbia Business School Workshop on Experimentation for Decision-Making \hfill 2026
+        \item[--] MIT Algorithms \& Behavior Coffee \hfill 2026
+        \item[--] MIT Business Implications of Generative AI Conference \hfill 2026
+        \item[--] Conference on Artificial Intelligence, Machine Learning, and Business Analytics \hfill 2025
+        \item[--] Wharton AI and the Future of Work Conference \hfill 2025
+        \item[--] MIT Behavioral Research Lab Seminar \hfill 2025
+        \item[--] Workshop on Information Technologies and Systems \hfill 2024
+        \item[--] Stanford Polarization and Social Change Lab Seminar \hfill 2024
+        \item[--] AI for Science Workshop at the International Conference on Machine Learning \hfill 2024
+        \item[--] International Conference on Computational Social Science \hfill 2024
+        \item[--] International Conference on the Science of Science and Innovation \hfill 2024
+        \item[--] ACM Collective Intelligence Conference \hfill 2024
+        \item[--] Annual Conference of the Cognitive Science Society \hfill 2022
+    	\item[--] Cultural Evolution Society Conference \hfill 2021
+          \item[--] International School and Conference on Network Science \hfill 2020
+          \item[--] International Conference on Complex Systems \hfill 2020
+          \item[--] Graph Technologies in Digital Humanities — Modelling the Scholarly Process \hfill 2020
+    	\end{itemize}
+    	}
+
+\section{Research Training Programs}
+\begin{itemize}
+    \item Deep Learning for Science School at the Lawrence Berkeley National Laboratory \hfill 2025
+    \item Santa Fe Institute Complexity-GAINs Summer School on Intelligence \& Representation \hfill 2023
+    \item Theoretical Organizational Models (TOM) Summer School at Harvard Business School \hfill 2023
+\end{itemize}
+
+
+
+\section{Teaching Experience}
+
+\begin{itemize}
+    \item \textbf{Massachusetts Institute of Technology}
+    \vspace{0.1em} % empty line
+    \small{
+	\begin{enumerate}
+        \item Teaching Assistant, Digital Revolution: From Foundations to Future Trends (15.561) \hfill Fall 2024, 2025
+	  \item Teaching Assistant, Action Learning Seminar on Analytics (A-Lab; 15.572) \hfill Fall 2023, 2024
+	\end{enumerate}}%
+\end{itemize}
+
+\section{Service}
+
+\begin{itemize}
+    \small{
+    \item Reviewer: MIT Business Implications on Generative AI Conference, International Conference on Computational Social Science
+    \item Chairperson, Student Education Committee at Seoul National University (2016)
+    }
+    
+\end{itemize}
+
+
+\begin{comment}
+
+\section{Selected Courses}
+
+\textbf{Machine Learning}: Machine Learning, Reinforcement Learning, Topics in ML: Interpretability
+
+\setlength{\parskip}{0.3em} % empty line
+
+\textbf{Economics \& Management}: Econometrics, Microeconomics, Game Theory, Marketing PhD Seminar: Principles of Rationality and Irrationality, IT PhD Seminar: Organizational Perspective
+
+\setlength{\parskip}{0.3em} % empty line
+
+\textbf{Math \& Statistics}: Information Theory and Inference, Probability Theory, Mathematical Statistics, Honor Calculus, Linear Albegra, Stochastic Processes, Mathematical Physics, MIT Econ Math Camp
+
+\end{comment}
+
+
+\section{Skills}
+
+\begin{minipage}{\maincolumnwidth}%
+	\small{
+    	\begin{itemize}
+        \item \textbf{Languages:} Python (NumPy, pandas, SciPy, scikit-learn, PyTorch), R, SQL, Bash
+        \item \textbf{Methods:} experimental design, statistical inference, predictive modeling (HTE, distribution shift), time-series forecasting, reinforcement learning, knowledge graphs, network analysis
+        \item \textbf{ML Systems:} LLM post-training (Hugging Face/TRL, PEFT/LoRA), inference (vLLM), RAG, Slurm, Git/Linux
+		    %\item Computer Languages: Python, R, SQL, MATLAB, NetLogo, UNIX Shell Scripting, \LaTeX{}, Markdown
+		    %\item Computing Environments: Git version control, Resilient Distributed Dataset, Secure Shell, Google Colab
+		    \item Fluent in English and Korean
+            \setlength{\itemindent}{1em}
+            \item[--] 21 months of mandatory military service as an English translator at Korea Defense Intelligence Command
+		\end{itemize}}%
+\end{minipage}%
+
+\vspace{1em}
+
+%\hfill Last Updated: \today
+      
+% Publications from a BibTeX file without multibib
+%  for numerical labels: \renewcommand{\bibliographyitemlabel}{\@biblabel{\arabic{enumiv}}}% CONSIDER MERGING WITH PREAMBLE PART
+%  to redefine the heading string ("Publications"): \renewcommand{\refname}{Articles}
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{publications}                        % 'publications' is the name of a BibTeX file
+
+% Publications from a BibTeX file using the multibib package
+%\section{Publications}
+%\nocitebook{book1,book2}
+%\bibliographystylebook{plain}
+%\bibliographybook{publications}                   % 'publications' is the name of a BibTeX file
+%\nocitemisc{misc1,misc2,misc3}
+%\bibliographystylemisc{plain}
+%\bibliographymisc{publications}                   % 'publications' is the name of a BibTeX file
+
+%-----       letter       ---------------------------------------------------------
+
+\end{document}
+
+
+%% end of file `template.tex'.

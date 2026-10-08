@@ -1,3 +1,31 @@
+# Robin Na's research website
+
+The homepage is a standalone `index.html` with styles in `assets/css/research.css`.
+GitHub Pages copies these static files directly; the existing Jekyll setup remains
+available for the other pages. Research and contact are homepage anchors.
+
+For a local preview (no publishing), run `python3 -m http.server 8765 --bind 127.0.0.1`
+from this directory and open `http://127.0.0.1:8765/`.
+
+The website CV is `assets/files/CV_RobinNa.pdf`; its LaTeX source is retained in
+`_cv/CV_webpage.tex`. The source retains the original moderncv banking template,
+fonts, and section order. Only Publications, Invited Seminars, and Skills were updated.
+The `_cv` directory is not published by Jekyll. Keep this source synchronized with
+`CV_webpage.tex` in the separate Overleaf project.
+
+The local preview was compiled with moderncv 2.0.0 to match the original template.
+The build-only copy loads fontspec before setting Pagella, resolves the same font
+by its OTF filenames, and disables the unused bibliography call (all publications
+are written directly in the source). These compatibility adjustments do not alter
+the preserved Overleaf source. Inspect the PDF before replacing the website copy.
+
+The site is published from `master` through GitHub Pages. The previous homepage
+and its local visual assets are preserved at `/archive/2026-10-08/`. Its CV link
+opens the current CV; no separate CV archive was created. The archive is excluded
+from search-engine indexing.
+
+---
+
 [![](https://i.imgur.com/zNBkzj1.png)](https://beautifuljekyll.com/plans/)
 
 # Beautiful Jekyll

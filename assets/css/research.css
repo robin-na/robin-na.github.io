@@ -58,7 +58,7 @@ h3 { font-size: 22px; font-weight: 500; font-family: var(--serif); line-height: 
 .contact p:last-child { font-size: 13px; color: #555b5c; max-width: 540px; margin-bottom: 0; }
 .contact-links { align-self: center; display: flex; flex-direction: column; gap: 10px; }
 .contact-links a { font-size: 13px; text-decoration: none; display: flex; justify-content: space-between; }
-.contact-links a:first-child { color: var(--accent); }
+.contact-email { color: var(--accent); font-size: 13px; }
 .site-footer { border-top: 1px solid var(--line); display: flex; justify-content: space-between; padding-block: 20px 28px; font-size: 10px; color: var(--muted); }
 .site-footer a { text-decoration: none; }
 @media (max-width: 850px) {

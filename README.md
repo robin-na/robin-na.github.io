@@ -1,6 +1,9 @@
 # Robin Na's research website
 
 The homepage is a standalone `index.html` with styles in `assets/css/research.css`.
+The stylesheet URL in `index.html` includes a content version to prevent stale browser styling.
+When editing `research.css`, update that version to the first 12 characters of its SHA-256 hash.
+
 GitHub Pages copies these static files directly; the existing Jekyll setup remains
 available for the other pages. Research and contact are homepage anchors.
 

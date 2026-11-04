@@ -4,16 +4,16 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Robin Na | AI Research · MIT</title>
-  <meta name="description" content="Robin Na is a PhD candidate at MIT building and evaluating AI agents for research synthesis, behavioral simulation, and prediction under distribution shift.">
+  <meta name="description" content="Robin Na is a PhD candidate at MIT working on AI for safe and effective social decision support through experimental design, literature synthesis, and human behavior simulation.">
   <meta name="theme-color" content="#faf9f6">
   <link rel="canonical" href="https://robin-na.github.io/">
   <meta property="og:type" content="website">
   <meta property="og:title" content="Robin Na | AI Research · MIT">
-  <meta property="og:description" content="AI agents for research synthesis, behavioral simulation, and prediction under distribution shift.">
+  <meta property="og:description" content="AI × Human Behavior: multi-agent AI systems for experimental design, literature synthesis, and human behavior simulation.">
   <meta property="og:url" content="https://robin-na.github.io/">
   <meta property="og:image" content="https://robin-na.github.io/assets/img/profile_sq.jpg">
   <meta name="twitter:card" content="summary">
-  <link rel="stylesheet" href="/assets/css/research.css?v=54f8bcc60325">
+  <link rel="stylesheet" href="/assets/css/research.css?v=b9aa10b1a83e">
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
@@ -32,11 +32,10 @@
   <main id="main" class="wrap">
     <section class="hero" id="about" aria-labelledby="name">
       <div class="hero-copy">
-        <p class="hero-label">AI for Behavioral Science</p>
+        <p class="hero-label">AI × Human Behavior</p>
         <h1 id="name">Robin Na</h1>
-        <p class="hero-statement">Building and evaluating AI agents that learn from scientific evidence and predict human behavior.</p>
-        <p class="intro">I am a PhD candidate in Information Technology at MIT, advised by <a href="https://amaatouq.io/">Abdullah Almaatouq</a> and <a href="https://www.miba.dev/">Michiel Bakker</a>. My work spans research synthesis, behavioral simulation, and evaluation under distribution shift.</p>
-        <p class="intro">I build systems that turn papers and behavioral data into predictions, and study when those predictions hold up in new settings. I also develop multi-agent environments to evaluate how AI scientists gather evidence and make research decisions.</p>
+        <p class="intro">I am a PhD candidate in Information Technology at MIT, advised by <a href="https://amaatouq.io/">Abdullah Almaatouq</a> and <a href="https://www.miba.dev/">Michiel Bakker</a>.</p>
+        <p class="intro">I work on AI for safe and effective social decision support. My research involves building multi-agent AI systems for experimental design, literature synthesis, and human behavior simulation, while studying how to prevent collective misalignment.</p>
         <div class="hero-links">
           <a class="primary-link" href="#research">Explore my research <span aria-hidden="true">↓</span></a>
           <a href="/assets/files/CV_RobinNa.pdf">Curriculum vitae <span aria-hidden="true">↗</span></a>
@@ -73,13 +72,13 @@
       <article class="project" id="behavioral-simulation">
         <div class="project-index" aria-hidden="true">01</div>
         <div>
-          <h3>Designing personas for behavioral simulation</h3>
-          <p>Which features of a person matter for simulating their behavior? We build an automated framework that iteratively constructs behavioral profiles for LLM simulations. It selects features by their ability to predict collective human behavior under experimental designs that differ from those used to develop the profiles.</p>
+          <h3>Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior</h3>
+          <p>Which characteristics of a person help predict their behavior? We build an automated framework that constructs behavioral profiles for AI simulations, selecting the features that best predict collective human behavior in new experimental settings.</p>
           <div class="project-paper">
-            <p class="paper-title">Designing Behavioral Profiles for Language Model Simulation of Out-of-Distribution Human Behavior</p>
             <p class="authors">Robin Na, Kehang Zhu, Logan Cross, Michiel Bakker</p>
             <p class="venue">Under review at Information Systems Research</p>
             <p class="paper-distinction"><span class="spotlight-badge"><svg aria-hidden="true" focusable="false" viewBox="0 0 24 24" width="14" height="14"><path d="m12 3 2.78 5.63L21 9.54l-4.5 4.39 1.06 6.2L12 17.2l-5.56 2.93 1.06-6.2L3 9.54l6.22-.91L12 3Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></svg><span>Spotlight · NeurIPS 2026 User Simulation Workshop</span></span></p>
+            <p class="paper-links"><a class="paper-button" href="https://arxiv.org/abs/2611.00661" aria-label="Read Designing Behavioral Profiles preprint">Paper <span aria-hidden="true">↗</span></a></p>
           </div>
         </div>
       </article>
@@ -87,10 +86,11 @@
       <article class="project" id="ai-scientists">
         <div class="project-index" aria-hidden="true">02</div>
         <div>
-          <h3>Undocumented Evidence and Collective Failure in Multi-Agent AI Scientists</h3>
-          <p>How should an AI scientist decide what to study next? We build multi-agent research environments to evaluate how agents allocate data-collection budgets and combine heterogeneous, noisy, and potentially misleading evidence. The goal is to understand how those research decisions shape predictions and policy recommendations in new settings.</p>
+          <h3>Collective misalignment in multi-agent AI systems</h3>
+          <p>How does collaboration among AI agents shape their conclusions? We build multi-agent research environments to study how AI scientists collect data, combine evidence, and make predictions and policy recommendations—and when their interactions lead to collective failures.</p>
           <div class="project-paper">
-            <p class="authors">Robin Na, Michiel Bakker</p>
+            <p class="paper-title">Misaligned Incentives and Tipping in Language Model Agent Networks</p>
+            <p class="authors">with Chanwoo Park, Michiel A. Bakker, Asu Ozdaglar</p>
             <p class="venue">Working Paper</p>
           </div>
         </div>
@@ -99,8 +99,8 @@
       <article class="project" id="research-synthesis">
         <div class="project-index" aria-hidden="true">03</div>
         <div>
-          <h3>Can scientific literature improve AI predictions?</h3>
-          <p>We build research-synthesis agents that extract and integrate evidence from scientific papers to predict behavioral experiments. By evaluating predictions on new experimental designs, this work examines both the capabilities of AI research agents and the predictive value of the literature they draw on.</p>
+          <h3>Evaluating scientific evidence</h3>
+          <p>Which scientific findings help us predict behavior in new settings? We build AI systems that synthesize research literature and evaluate whether that evidence improves predictions of behavioral experiments.</p>
           <div class="project-paper">
             <p class="paper-title">Auditing Scientific Literatures with Large Language Models</p>
             <p class="authors">Robin Na, Duncan J. Watts, Abdullah Almaatouq</p>
@@ -112,11 +112,12 @@
       <article class="project" id="explanation-and-prediction">
         <div class="project-index" aria-hidden="true">04</div>
         <div>
-          <h3><a href="https://doi.org/10.1177/09637214261419427">The Integration of Explanation and Prediction in Behavioral Science <span aria-hidden="true">↗</span></a></h3>
-          <p>Connecting causal explanation and predictive evaluation to develop behavioral science that generalizes across settings.</p>
+          <h3>The Integration of Explanation and Prediction in Behavioral Science</h3>
+          <p>How can behavioral science explain why people act as they do while also predicting what they will do next? We examine how explanatory and predictive approaches can inform one another.</p>
           <div class="project-paper">
             <p class="authors">Abdullah Almaatouq, Robin Na</p>
             <p class="venue">Current Directions in Psychological Science, 35(3), 2026</p>
+            <p class="paper-links"><a class="paper-button" href="https://doi.org/10.1177/09637214261419427" aria-label="Read The Integration of Explanation and Prediction in Behavioral Science">Paper <span aria-hidden="true">↗</span></a></p>
           </div>
         </div>
       </article>

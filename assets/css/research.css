@@ -68,6 +68,9 @@ h3 { font-size: 22px; font-weight: 500; font-family: var(--serif); line-height: 
 .paper-title { font-size: 13px; line-height: 1.65; font-weight: 600; }
 .authors, .venue { font-size: 12px; color: var(--muted); line-height: 1.65; }
 .venue { font-style: italic; }
+.paper-links { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.paper-button { display: inline-flex; align-items: center; gap: 7px; padding: 5px 11px; border: 1px solid var(--accent); border-radius: 4px; color: var(--accent); font-size: 12px; font-weight: 600; line-height: 1.5; text-decoration: none; }
+.paper-button:hover { background: var(--accent); color: #fff; }
 .paper-distinction { margin-top: 10px; }
 .spotlight-badge { display: inline-flex; align-items: center; gap: 7px; padding: 4px 9px; border: 1px solid #b8953c; border-radius: 4px; color: #80600c; font-size: 11px; font-weight: 600; line-height: 1.5; }
 .spotlight-badge svg { flex-shrink: 0; }
